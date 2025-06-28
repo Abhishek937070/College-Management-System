@@ -78,10 +78,10 @@
 
 
     <div class="content">
-        <div class="marquee-heading">About Us</div>
+        <div class="marquee-heading">About Web</div>
 			
         <p>
-            Welcome to the College Enquiry Management System 
+            Welcome to the College Enquiry Management System – an integrated platform that helps streamline the interaction between students and administrators. Our mission is to simplify the student experience and provide transparency in academic communications.
         </p>
 
         <p><strong>Key Features:</strong></p>
