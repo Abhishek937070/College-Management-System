@@ -86,7 +86,7 @@
 
         <p><strong>Key Features:</strong></p>
         <ul>
-            <li>Student registration & login portal</li>
+            <li>Student registration & login portal Of Laksh IT Solution</li>
             <li>Enquiry submission & feedback tracking</li>
             <li>Admin control panel to manage student records</li>
             <li>Fast and user-friendly interface</li>
