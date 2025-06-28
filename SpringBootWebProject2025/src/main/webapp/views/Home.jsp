@@ -98,7 +98,7 @@
 
     <div class="content">
         <marquee scrollamount="12" onmouseover="this.stop();" onmouseout="this.start();">
-  				  <div><h3>Notice: Registration Started (You Can Login After Your Request Accept Then You Can Login)</h3></div>
+  				  <div><h3>Notice: Registration Started (You Can Login After Your Request)</h3></div>
 		</marquee>
         
         <br>
