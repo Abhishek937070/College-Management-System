@@ -74,7 +74,7 @@
     </style>
 </head>
 <body>
- <%@ include file="Header.jsp" %>xs
+ <%@ include file="Header.jsp" %>
 
 
     <div class="content">
