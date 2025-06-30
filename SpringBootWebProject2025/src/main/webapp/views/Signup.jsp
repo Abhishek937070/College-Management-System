@@ -14,7 +14,14 @@
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         background: linear-gradient(to right, #74ebd5, #9face6);
         color: #333;
+        height: 100%;
+   		margin: 0;
+   		display: flex;
+    	flex-direction: column;
     }
+    .content {
+    flex: 1;
+}
         
          .navbar {
             background-color: #333;
@@ -97,6 +104,12 @@
         input[type="submit"]:hover {
             background-color: #0056b3;
         }
+         .footer {
+        background-color: #222;
+        color: #fff;
+        text-align: center;
+        padding: 15px 0;
+    }
 
     </style>
 </head>
@@ -165,7 +178,11 @@ ${message}
     </form>
     <br>
      
-    <%@ include file="Footer.jsp" %>
+      <div class="footer">
+        <%@ include file="Footer.jsp" %>
+    </div>
+     
+   
     
 </body>
 
