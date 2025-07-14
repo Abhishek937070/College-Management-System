@@ -66,6 +66,6 @@ return confirm ("Do you want to delete enquiry....?")
  </c:forEach>
 
 </table>
-
+<%@ include file="Student_Header.jsp" %>
 </body>
 </html>

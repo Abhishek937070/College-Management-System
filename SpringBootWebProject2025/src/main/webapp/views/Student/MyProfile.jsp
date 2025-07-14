@@ -163,7 +163,7 @@ ${message}
     </form>
     <br>
      
-    
+    <%@ include file="Student_Header.jsp" %>
     
 </body>
 

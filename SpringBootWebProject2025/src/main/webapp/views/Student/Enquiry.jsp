@@ -134,7 +134,7 @@ ${message}
     <br>
      
     
-    
+    <%@ include file="Student_Header.jsp" %>
 </body>
 
 </html>

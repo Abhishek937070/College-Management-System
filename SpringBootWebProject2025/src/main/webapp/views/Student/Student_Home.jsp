@@ -34,6 +34,6 @@
 
 </body>
 
-
+<%@ include file="Student_Header.jsp" %>
 
 </html>
