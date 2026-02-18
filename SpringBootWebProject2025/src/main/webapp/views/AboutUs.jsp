@@ -100,12 +100,14 @@
         Name: Abhishek Subhash Vidhate<br>
         Intelligence: Full Stack Developer<br>
         Internship: Full Stack Developer at LitsBros Pvt. Ltd. Amravati</p>
-        <p><strong>Contact:</strong><br>
-        Email: abhishekvidhate01@gmail.com<br>
-        Git Hub: https://github.com/Abhishek937070 <br>
-        Linkedin: www.linkedin.com/in/abhishekvidhate01 <br>
+        
+        <p><strong>Contact:</strong><br>      
+        Mail: <a href="abhishekvidhate01@gmail.com">abhishekvidhate01@gmail.com</a><br>
+        Git Hub: <a href="https://github.com/Abhishek937070">https://github.com/Abhishek937070</a> <br>
+        Linkedin: <a href="www.linkedin.com/in/abhishekvidhate01">www.linkedin.com/in/abhishekvidhate01</a> <br>
         Mobile No: 9370704935<br>
         Whatsapp: 9370704935<br>
+        
         
         </p>
         
