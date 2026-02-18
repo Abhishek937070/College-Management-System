@@ -9,8 +9,7 @@
         html, body {
             height: 100%;
             margin: 0;
-            display: flex;
-            flex-direction: column;
+
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(to right, #74ebd5, #9face6);
             color: #333;
@@ -74,6 +73,7 @@
     </style>
 </head>
 <body>
+ 
  <%@ include file="Header.jsp" %>
 
 
@@ -99,7 +99,7 @@
         <p><strong>Developer Info:</strong><br>
         Name: Abhishek Subhash Vidhate<br>
         Intelligence: Full Stack Developer<br>
-        Internship: Full Stack Developer at LitsBros Pvt. Ltd., Amravati</p>
+        Internship: Full Stack Developer at LitsBros Pvt. Ltd. Amravati</p>
         <p><strong>Contact:</strong><br>
         Email: abhishekvidhate01@gmail.com<br>
         Git Hub: https://github.com/Abhishek937070 <br>
