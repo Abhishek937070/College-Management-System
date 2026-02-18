@@ -12,6 +12,7 @@
             color: #fff;
             text-align: center;
             padding: 15px 0;
+           }
 </style>
 <body>
 
