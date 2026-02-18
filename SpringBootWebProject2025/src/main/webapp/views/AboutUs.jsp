@@ -84,7 +84,7 @@
             Welcome to the College Enquiry Management System – an integrated platform that helps streamline the interaction between students and administrators. Our mission is to simplify the student experience and provide transparency in academic communications.
         </p>
 
-        <p><strong>Key Features:</strong></p>
+        <p><strong>Key Features:-</strong></p>
         <ul>
             <li>Student registration & login portal</li>
             <li>Enquiry submission & feedback tracking</li>
